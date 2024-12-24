@@ -26,3 +26,12 @@ The Vindra Store wants to create an annual sales report on 2022. So that , the O
 
 ## Dashboard
 ![Screenshot 2024-12-04 184242](https://github.com/user-attachments/assets/c9a989e2-ea89-4d20-8ad3-3e976b60fd24)
+
+## Project Insight 
+- Women customer are more likely to buy products compare to men.
+- The state of Maharastra, Karnatak and Utter Pradesh are the top three product buyers.
+- The adult group is maximum contributing and buys the most product.
+- More than 50% products are delivered.
+
+## Final Conclusion:
+To improve the sales of  Vindra Store, a strategic marketing plan based focused on women aged 30-49 years residing Maharastra, Karnatak and Utter Pradesh should be implemented. This demographic a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attentions.
