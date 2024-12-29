@@ -16,7 +16,7 @@ The Vindra Store wants to create an annual sales report on 2022. So that , the O
 - Highest selling category?
 - Percentage of Total orders delivered.
 
-- Dashboard Interaction <a href="https://github.com/omarfaruknabil/Data-Analysis-Dashboard/blob/main/Screenshot%202024-12-04%20184242.png">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/omarfaruknabil/Data-Analysis-Dashboard/blob/main/Screenshot%202024-12-04%20184242.png">View Dashboard</a>
 
 ## Process 
 - Verify data for any missing values and anomalies,and sort out the same.
